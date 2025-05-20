@@ -1,3 +1,3 @@
 # First-Demo
 This is my first Git Repository 
-<br>Author - Priyali Jain
+<br>Author - Priyali J
